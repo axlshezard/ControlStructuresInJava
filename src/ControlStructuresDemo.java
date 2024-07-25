@@ -9,7 +9,7 @@ public class ControlStructuresDemo {
         // Esta sección usa if, else if y else para evaluar una condición.
 
         int x = 10; // Variable para las demostraciones condicionales
-        System.out.println("Estructuras Condicionales:");
+        System.out.println("Estructuras Condicionales: Esta sección usa if, else if y else para evaluar una condición. ");
 
         // Evaluación condicional usando if, else if y else
         if (x < 0) {
